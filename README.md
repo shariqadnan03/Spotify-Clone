@@ -8,10 +8,6 @@ An improved version of a Spotify clone, designed to provide the ultimate user ex
 
 This Spotify clone focuses on enhancing user experience with a range of features tailored to music lovers. From real-time updates to intuitive navigation, every feature is designed with UX and responsiveness in mind.
 
-## 🚀 Spotify
-
-![Spotify Clone](screenshot1.png)
-![Spotify Clone](screenshot2.png)
 
 ### Key Features
 - 🔥 **Real-time Song Updates**: Instantly access the latest song information with real-time updates, ensuring a smooth listening experience.
